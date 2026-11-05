@@ -1,0 +1,9 @@
+{
+  "name": "lab12-tcc",
+  "version": "1.0.0",
+  "description": "Laboratorio 12 - Teoría de la Computación: programación funcional con funciones lambda en JavaScript",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
