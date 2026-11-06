@@ -4,7 +4,7 @@ Programación funcional y cálculo lambda. Los programas están escritos en **Ja
 
 ## Video
 
-Video de la ejecución: 
+Video de la ejecución: https://youtu.be/jk3-0v6BEBg
 
 ## Estructura
 
